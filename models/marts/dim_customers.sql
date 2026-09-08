@@ -23,7 +23,7 @@ customer_orders as (
 
     group by 1
 
-),
+), 
 
 
 final as (
