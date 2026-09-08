@@ -6,7 +6,3 @@ sources:
     tables:
       - name: orders
       - name: customers
-
-  - name: stripe
-    tables:
-      - name: payments
